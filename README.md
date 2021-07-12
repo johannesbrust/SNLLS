@@ -1,5 +1,5 @@
 # SNLLS
-**Stochastic Nonlinear Least-Squares**
+**Stochastic Nonlinear Least-Squares (for Large-Scale Machine Learning)**
 
 PYTHON 3.7 implementations of algorithms from the article
 
