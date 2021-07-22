@@ -4,12 +4,12 @@
 PYTHON 3.7 implementations of algorithms from the article
 
 "Nonlinear Least-Squares for Large-Scale Machine Learning using Stochastic Jacobian Estimates", J.J. Brust (2021),  
-*Proceedings of the 38th International Conference on Machine Learning, PMLR 139*
+*Proceedings of the 38th International Conference on Machine Learning, PMLR 139* [[article]](https://arxiv.org/pdf/2107.05598.pdf)
 
 Content:
-  * NLLS.py (Full Jacobian nonlinear least-squares algorithm (only for small data sizes))
-  * SNLLS1.py (Rank-1 Stochastic Jacobian algorithm)
-  * SNLLSL.py (Rank-L Stochastic Jacobian algorithm)
+  * NLLS.py (Full Jacobian nonlinear least-squares algorithm (small data sizes))
+  * SNLLS1.py (Rank-1 Stochastic Jacobian algorithm, large-scale)
+  * SNLLSL.py (Rank-L Stochastic Jacobian algorithm, large-scale)
   * SNLSS_1_IRISCLASS.py (Driver Experiment I)
     - Dataset: [[Iris]](https://archive.ics.uci.edu/ml/datasets/iris)
     - Includes: NLLS,SNLLS1,SNLLSL, SGD, Adam, Adagrad
