@@ -53,3 +53,22 @@ Epoch   NLLS    SNLLS1  SNLLSL  SGD     ADAM    ADAGRAD
 013     0.1129  0.0486  0.0397  0.1444  0.2240  0.4306
 .       .       .       .       .       .       .
 .       .       .       .       .       .       .
+```
+## Cite
+You can cite this work as (bibtex)
+
+```
+@inproceedings{snlls21,
+  author    = {Johannes J. Brust},
+  title     = {Nonlinear Least-Squares for Large-Scale Machine Learning using Stochastic Jacobian Estimates},
+  booktitle = {Proceedings of the Beyond first-order methods in ML systems
+               workshop at the 38th International Conference on Machine
+               Learning, {ICML} 2021, 18-24 July 2021, Virtual Event},
+  publisher = {{PMLR}},
+  year      = {2021},
+  url       = {https://sites.google.com/view/optml-icml2021/accepted-papers?authuser=0}
+}
+```
+
+
+
