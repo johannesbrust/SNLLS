@@ -58,6 +58,17 @@ Epoch   NLLS    SNLLS1  SNLLSL  SGD     ADAM    ADAGRAD
 You can cite this work as (bibtex)
 
 ```
+@article{snlls21,
+  author    = {Johannes J. Brust},
+  title     = {Nonlinear Least-Squares for Large-Scale Machine Learning using Stochastic Jacobian Estimates},
+  journal   = {arXiv preprint arXiv:1412.6980},
+  year      = {2021},
+  url       = {https://sites.google.com/view/optml-icml2021/accepted-papers?authuser=0}
+}
+```
+
+<!--
+```
 @inproceedings{snlls21,
   author    = {Johannes J. Brust},
   title     = {Nonlinear Least-Squares for Large-Scale Machine Learning using Stochastic Jacobian Estimates},
@@ -69,6 +80,7 @@ You can cite this work as (bibtex)
   url       = {https://sites.google.com/view/optml-icml2021/accepted-papers?authuser=0}
 }
 ```
+-->
 
 
 
